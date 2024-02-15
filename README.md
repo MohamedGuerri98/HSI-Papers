@@ -11,7 +11,6 @@ This repository is dedicated to the implementation and exploration of deep learn
   - [RNN](#RNN)
   - [SAE](#SAE)
   - [AL](#AL)
-- [Datasets](#Datasets)
 
 ## Methodology
 ### CNN
@@ -68,7 +67,5 @@ This repository is dedicated to the implementation and exploration of deep learn
 - Multiview spatial–spectral active learning for hyperspectral image classification. Xu, M., Zhao, Q., & Jia, S. (2021).  IEEE Transactions on Geoscience and Remote Sensing, 60, 1-15.
 - Multi-Class Pixel Certainty Active Learning Model for Classification of Land Cover Classes Using Hyperspectral Imagery. Yadav, C. S., Pradhan, M. K., Gangadharan, S. M. P., Chaudhary, J. K., Singh, J., Khan, A. A., ... & Pattanayak, H. S. (2022).  Electronics, 11(17), 2799.
 
-
-## Datasets
 
 
