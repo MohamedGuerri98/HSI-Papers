@@ -10,6 +10,6 @@ This repository is dedicated to the implementation and exploration of deep learn
 ## Methodology
 ### CNN
 
-##Datasets
+## Datasets
 
 
