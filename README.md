@@ -6,6 +6,11 @@ This repository is dedicated to the implementation and exploration of deep learn
 
 - [Methodology](#Methodology)
   - [CNN](#CNN)
+  - [DBN](#DBN)
+  - [GAN](#GAN)
+  - [RNN](#RNN)
+  - [SAE](#SAE)
+  - [AL](#AL)
 - [Datasets](#Datasets)
 
 ## Methodology
@@ -54,6 +59,14 @@ This repository is dedicated to the implementation and exploration of deep learn
 - Transfer Learning for Plant-level Crop Classification using Drone-based Hyperspectral Imagery. Sarma, A. S., & Nidamanuri, R. R. (2023, January).  In 2023 International Conference on Machine Intelligence for GeoAnalytics and Remote Sensing (MIGARS) (Vol. 1, pp. 1-4). IEEE.
 - FPGA: Fast patch-free global learning framework for fully end-to-end hyperspectral image classification. Zheng, Z., Zhong, Y., Ma, A., & Zhang, L. (2020).  IEEE Transactions on Geoscience and Remote Sensing, 58(8), 5612-5626.
 
+### AL
+- Active Learning for Hyperspectral Image Classification Using Kernel Sparse Representation Classifiers. Bortiew, A., Patra, S., & Bruzzone, L. (2023).  IEEE Geoscience and Remote Sensing Letters, 20, 1-5.
+- Hyperspectral image classification via active learning and broad learning system. Huang, H., Liu, Z., Chen, C. P., & Zhang, Y. (2023).  Applied Intelligence, 53(12), 15683-15694.
+- Hyperspectral image classification with convolutional neural network and active learning. Cao, X., Yao, J., Xu, Z., & Meng, D. (2020).  IEEE Transactions on Geoscience and Remote Sensing, 58(7), 4604-4616.
+- Hyperspectral image classification with multi-attention transformer and adaptive superpixel segmentation-based active learning. Zhao, C., Qin, B., Feng, S., Zhu, W., Sun, W., Li, W., & Jia, X. (2023).  IEEE Transactions on Image Processing.
+- Multi-Class Pixel Certainty Active Learning Model for Classification of Land Cover Classes Using Hyperspectral Imagery. Yadav, C. S., Pradhan, M. K., Gangadharan, S. M. P., Chaudhary, J. K., Singh, J., Khan, A. A., ... & Pattanayak, H. S. (2022).  Electronics, 11(17), 2799.
+- Multiview spatial–spectral active learning for hyperspectral image classification. Xu, M., Zhao, Q., & Jia, S. (2021).  IEEE Transactions on Geoscience and Remote Sensing, 60, 1-15.
+- Multi-Class Pixel Certainty Active Learning Model for Classification of Land Cover Classes Using Hyperspectral Imagery. Yadav, C. S., Pradhan, M. K., Gangadharan, S. M. P., Chaudhary, J. K., Singh, J., Khan, A. A., ... & Pattanayak, H. S. (2022).  Electronics, 11(17), 2799.
 
 
 ## Datasets
