@@ -5,10 +5,12 @@ This repository is dedicated to the implementation and exploration of deep learn
 ## Table of Contents
 
 - [Methodology](#Methodology)
+  - [CNN](#CNN)
 - [Datasets](#Datasets)
 
 ## Methodology
 ### CNN
+
 
 ## Datasets
 
